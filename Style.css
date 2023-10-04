@@ -465,22 +465,22 @@ nav{
 }
 
 .gradient1{
-    background: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.8)), url(/image/asset\ 36.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.8)), url(asset\ 36.jpeg);
     background-size: cover;
 }
 
 .gradient2{
-    background: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.8)), url(/image/asset\ 37.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.8)), url(asset\ 37.jpeg);
     background-size: cover;
 }
 
 .gradient3{
-    background: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.8)), url(/image/asset\ 38.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.8)), url(asset\ 38.jpeg);
     background-size: cover;
 }
 
 .gradient4{
-    background: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.8)), url(/image/asset\ 39.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.8)), url(asset\ 39.jpeg);
     background-size: cover;
 }
 
