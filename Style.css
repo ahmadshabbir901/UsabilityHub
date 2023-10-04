@@ -573,7 +573,7 @@ h5{
 
 .footer-section1-right{
     width: 50%;
-    background-image: url(/image/asset\ 40.png);
+    background-image: url(asset\ 40.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -583,7 +583,7 @@ h5{
 }
 
 .panel-image-price{
-    background-image: url(/image/asset\ 41.png);
+    background-image: url(asset\ 41.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
